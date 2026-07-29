@@ -128,6 +128,3 @@ GitHub: https://github.com/Arup-03
 
 ---
 
-## ⭐ Support
-
-If you found this repository useful, please consider giving it a ⭐ Star.
